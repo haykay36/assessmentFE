@@ -11,7 +11,7 @@ function Hero() {
         </h1>
       </div>
 
-      <img src="/src/assets/background img.png" alt="" />
+      <img src="../src/assets/background img.png" alt="" />
     </div>
   );
 }
